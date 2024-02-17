@@ -13,7 +13,7 @@ const PictureList = [
   },
   {
     id: 2,
-    url: "https://rbobkoskie1.github.io/images/Family-1.jpg",
+    url: "https://rbobkoskie1.github.io/images/roses_2.jpg",
   },
   {
     // id: 3,
@@ -59,7 +59,7 @@ function DragDrop() {
   };
 
   const myDate={
-    backgroundImage: "url('https://rbobkoskie1.github.io/images/att-office.jpg')",
+    backgroundImage: "url('https://rbobkoskie1.github.io/images/Sunny_01.jpg')",
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
   };
