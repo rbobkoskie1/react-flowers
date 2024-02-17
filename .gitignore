@@ -3,5 +3,9 @@
 #	hint: Use -f if you really want to add them.
 #	hint: Turn this message off by running
 #	hint: "git config advice.addIgnoredFile false"
+#
+#	$ git add .gitignore
+#	$ git commit -m "Add .gitignore file"
+#	$ git push origin
 #######################
 build/
